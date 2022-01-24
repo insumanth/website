@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, I am
+content: >
+  # Sumanth
+
+  I like tinkering with latest software and tools.
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/1.png
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

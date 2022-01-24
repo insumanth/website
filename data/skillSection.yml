@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## My Skills
+
+  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+
+image: images/skill/skill.png
+
+skill:
+  - title: Python
+    percent: 50
+  - title: Java
+    percent: 50
+  - title: Ruby
+    percent: 40
+  - title: C
+    percent: 40
+  - title: R
+    percent: 40

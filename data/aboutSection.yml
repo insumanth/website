@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  ### Student and Intern Software Developer
+content: >
+  ### I design and build ultimate things.
+
+  I Like to explore latest software trends and tinker them
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about.png
+# image: images/about/about-img.jpg
